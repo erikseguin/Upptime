@@ -4,19 +4,19 @@
     "url": "https://fake.wang",
     "icon": "https://icons.duckduckgo.com/ip3/fake.wang.ico",
     "slug": "fake-wang",
-    "status": "down",
-    "uptime": "34.48%",
-    "uptimeDay": "34.48%",
-    "uptimeWeek": "34.48%",
-    "uptimeMonth": "34.48%",
-    "uptimeYear": "34.48%",
-    "time": 547,
-    "timeDay": 547,
-    "timeWeek": 547,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "status": "up",
+    "uptime": "12.02%",
+    "uptimeDay": "12.02%",
+    "uptimeWeek": "12.02%",
+    "uptimeMonth": "12.02%",
+    "uptimeYear": "12.02%",
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-08-14": 11
+      "2023-08-14": 42
     }
   },
   {
