@@ -1,6 +1,7 @@
 # Change these first
 owner: erikseguin
 repo: upptime
+user-agent: erikseguin
 
 sites:
   - name: Fake.Wang
