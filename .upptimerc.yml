@@ -1,18 +1,20 @@
 # Change these first
 owner: erikseguin
 repo: upptime
+assignees:
+  - ErikSeguin
 
 sites:
   - name: Fake.Wang
     url: https://fake.wang
-  - name: Jellyfin.Fake.Wang
+  - name: Jellyfin
     url: https://jellyfin.fake.wang
-  - name: Jellyseerr.Fake.Wang
+  - name: Jellyseerr
     url: https://jellyseerr.fake.wang
-  - name: Grafana.Fake.Wang
-    url: https://grafana.fake.wang
-  - name: Wizarr.Fake.Wang
+  - name: Wizarr
     url: https://wizarr.fake.wang
+  - name: Grafana
+    url: https://grafana.fake.wang
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,9 +22,9 @@ status-website:
   cname: status.fake.wang
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Fake.Wang
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
