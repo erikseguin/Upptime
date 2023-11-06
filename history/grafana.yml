@@ -1,7 +1,7 @@
 url: https://grafana.fake.wang
-status: down
-code: 502
-responseTime: 365
-lastUpdated: 2023-11-06T16:07:19.278Z
+status: up
+code: 200
+responseTime: 426
+lastUpdated: 2023-11-06T19:47:55.875Z
 startTime: Mon Aug 14 2023 23:05:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
