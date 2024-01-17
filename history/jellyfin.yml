@@ -1,7 +1,7 @@
 url: https://jellyfin.fake.wang
-status: down
-code: 502
-responseTime: 293
-lastUpdated: 2024-01-17T19:23:47.654Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2024-01-17T19:40:05.013Z
 startTime: Mon Aug 14 2023 23:05:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
